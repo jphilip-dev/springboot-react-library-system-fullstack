@@ -1,6 +1,4 @@
-![Home](https://github.com/user-attachments/assets/7afe7263-206e-4342-8c8d-308b31a76ed3)# springboot-react-library-system-fullstack
-
-A simple Spring Boot MVC application ,  This project allows users to:  
+#A simple Spring Boot MVC application ,  This project allows users to:  
 - View a list of Books
 - Search a Book/s
 - Sort the list Books
