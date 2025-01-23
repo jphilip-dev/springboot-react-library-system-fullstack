@@ -1,4 +1,6 @@
-#A simple Spring Boot MVC application ,  This project allows users to:  
+# springboot-react-library-system-fullStack
+
+A simple Spring Boot MVC application ,  This project allows users to:  
 - View a list of Books
 - Search a Book/s
 - Sort the list Books
